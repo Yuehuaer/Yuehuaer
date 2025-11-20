@@ -8,7 +8,7 @@
 
 ---
 
-<img align="right" src="https://cdn.jsdelivr.net/gh/ElainaFanBoy/picx-images-hosting@master/20230720/1.png" width="360" style="margin-left: 20px; margin-bottom: 20px; border-radius: 15px;"/>
+<img align="right" src="https://cdn.jsdelivr.net/gh/ElainaFanBoy/picx-images-hosting@master/20230720/1.png" width="360" style="margin-left: 20px; border-radius: 15px;"/>
 
 ## 🌸 关于我（自我介绍时间！）
 
@@ -44,12 +44,13 @@
 
 <div style="margin: 20px 0; background: #222831; padding: 15px; border-radius: 10px; border: 1px solid #ffd166;">
   <h3 style="color: #ffd166; text-align: center; margin: 10px 0;">✨ 超可爱蛇蛇 · 在你的提交记录里乱爬 ✨</h3>
-  <img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" width="100%" style="border-radius: 8px;"/>
+  <img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" width="100%">
 </div>
 
 ---
 
 # 🎀 好东西都藏这里了（不要误会！）
+
 
 <details>
   <summary><b>🎬 点我展开！这是我找的好东西</b></summary>
@@ -65,9 +66,12 @@
 
 # 📊 这是我的 GitHub…嗯…别太认真看
 
-<div align="center" style="margin: 20px 0;">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yuehuaer&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuehuaer&layout=compact&theme=tokyonight&hide_border=true">
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yuehuaer&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuehuaer&layout=compact&theme=tokyonight&hide_border=true">
+
 </div>
 
 ---
@@ -83,8 +87,8 @@
 
 # ⚠️ 自用声明（严肃但又不想太严肃）
 
-<div style="background: #fff3cd; padding: 20px; border-radius: 10px; border: 1px solid #ffeeba; margin: 20px 0;">
-  <h3 style="color: #856404;">🛑 小小提示（ゆえはぁ碎碎念）</h3>
+<div style="background: #fff3cd; padding: 20px; border-radius: 10px; border: 1px solid #ffeeba;">
+  <h3 style="color: #856404;">🛑 大大的提示（碎碎念）</h3>
   <ul style="line-height: 1.7; color: #5a3d00;">
     <li>仓库只给我学习用（你可以看，但不能作妖）。</li>
     <li>严禁违法违规用途（你违法我真的救不了你啊喂）。</li>
@@ -103,8 +107,7 @@
   <img src="https://img.shields.io/badge/中二-但努力-80ed99?style=for-the-badge&logo=leaf&logoColor=white">
 </div>
 
-<!-- 计数器区增加间距，优化排版 -->
-<div align="center" style="margin: 15px 0 30px 0;">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28" style="vertical-align: middle; margin-right: 8px;">
-  <img src="https://moe-counter.glitch.me/get/@:Yuehuaer?theme=rule34" style="vertical-align: middle;"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28">
+  <img src="https://moe-counter.glitch.me/get/@:Yuehuaer?theme=rule34"/>
 </div>
