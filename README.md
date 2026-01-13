@@ -56,7 +56,7 @@
   <summary><b>🎬 点我展开！这是我找的好东西</b></summary>
   <br>
 
-  <img src="http://img.netbian.com/file/2025/0928/162627wjXnR.jpg" width="100%" style="border-radius: 8px; margin-bottom: 10px;"/>
+  <img src="http://img.netbian.com/file/2026/0108/232817WgnCw.jpg" width="100%" style="border-radius: 8px; margin-bottom: 10px;"/>
 
   🔗 <a href="https://github.com/heartyang520/heartyang520/assets/51397676/31669bd8-ba37-4c64-8f64-3c40633c4072">更多可爱的影视片段戳这里！</a>
 
