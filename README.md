@@ -1,8 +1,10 @@
-# 🎀✨ Hi ~ I'm **Yuehuaer**  ✨🎀
+[<img align="right" src="https://p1-bos.fzxhmy.com/f77078c556cc440c8934e23b2b1858da.jpg" height="120" style="border-radius: 8px; margin-top: 10px;">](https://github.com/Yuehuaer/Yuen)
+
+# 🎀✨ Hi ~ I'm **Yuehuaer** ✨🎀
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/ElainaFanBoy/picx-images-hosting@master/20230719/1.gif" width="70">
-  <span style="font-size: 30px; font-weight: bold; margin: 0 10px;">欢迎来到我这个奇奇怪怪但还算可爱的 GitHub 小窝！</span>
+  <span style="font-size: 30px; font-weight: bold; margin: 0 10px;">欢迎来到我这个奇奇怪怪但还算有趣的 GitHub 小窝！</span>
   <img src="https://cdn.jsdelivr.net/gh/ElainaFanBoy/picx-images-hosting@master/20230719/1.gif" width="70">
 </div>
 
@@ -107,7 +109,4 @@
   <img src="https://img.shields.io/badge/中二-但努力-80ed99?style=for-the-badge&logo=leaf&logoColor=white">
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28">
-  <img src="https://moe-counter.glitch.me/get/@:Yuehuaer?theme=rule34"/>
-</div>
+
