@@ -1,6 +1,6 @@
 [<img align="right" src="https://p1-bos.fzxhmy.com/f77078c556cc440c8934e23b2b1858da.jpg" height="120" style="border-radius: 8px; margin-top: 10px;">](https://github.com/Yuehuaer/Yuen)
 
-# 🎀✨ Hi ~ I'm **Yuehuaer** ✨🎀
+# ✨ Hi ~ I'm **Yuehuaer** ✨
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/ElainaFanBoy/picx-images-hosting@master/20230719/1.gif" width="70">
@@ -12,10 +12,10 @@
 
 <img align="right" src="https://cdn.jsdelivr.net/gh/ElainaFanBoy/picx-images-hosting@master/20230720/1.png" width="360" style="margin-left: 20px; border-radius: 15px;"/>
 
-## 🌸 关于我（自我介绍时间！）
+##  关于我（自我介绍时间！）
 
 * 🧑🏻‍💻 普通人一个，但擅长把电脑搞坏再修好
-* 🎀 写脚本的时候最怕报错，但报错又是家常便饭
+* 😬 写脚本的时候最怕报错，但报错又是家常便饭
 * 🍡 热爱折腾各种有趣的项目
 * 😭 喜欢动漫，也喜欢写代码，但代码有时候不喜欢我
 * 🌈 终极目标：
@@ -51,7 +51,7 @@
 
 ---
 
-# 🎀 好东西都藏这里了（不要误会！）
+# ❤️ 好东西都藏这里了（不要误会！）
 
 
 <details>
@@ -101,11 +101,11 @@
 
 ---
 
-# 💖 徽章展示（越贴越开心）
+# 🎖 徽章展示（越贴越开心）
 
 <div align="center" style="margin: 20px 0;">
   <img src="https://img.shields.io/badge/GitHub-Yuehuaer-ff79c6?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/可爱-是天赋-fcbf49?style=for-the-badge&logo=sparkles&logoColor=white">
+  <img src="https://img.shields.io/badge/哈哈-是天赋-fcbf49?style=for-the-badge&logo=sparkles&logoColor=white">
   <img src="https://img.shields.io/badge/中二-但努力-80ed99?style=for-the-badge&logo=leaf&logoColor=white">
 </div>
 
