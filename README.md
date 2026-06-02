@@ -1,4 +1,4 @@
-[<img align="right" src="https://p1-bos.fzxhmy.com/f77078c556cc440c8934e23b2b1858da.jpg" height="120" style="border-radius: 8px; margin-top: 10px;">](https://github.com/Yuehuaer/Yuen)
+
 
 # ✨ Hi ~ I'm **Yuehuaer** ✨
 
@@ -66,17 +66,6 @@
 
 ---
 
-# 📊 这是我的 GitHub…嗯…别太认真看
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yuehuaer&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuehuaer&layout=compact&theme=tokyonight&hide_border=true">
-
-</div>
-
----
 
 # 📦 工具箱（This is me 的小宝箱）
 
